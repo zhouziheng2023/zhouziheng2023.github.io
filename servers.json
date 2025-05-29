@@ -1,4 +1,8 @@
 {
-    "name": "k8sblog",
+    "servers": [
+        {
+   "name": "k8sblog",
     "address": "https://side.k8sblog.top:6970"
+        }
+    ]
 }
