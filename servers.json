@@ -1,4 +1,4 @@
 {
-    "name": "k8sblog",   //doesn't really matter unless you're sharing this server list with someone else
+    "name": "k8sblog",
     "address": "https://side.k8sblog.top:6970"
 }
